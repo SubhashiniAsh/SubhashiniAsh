@@ -1,5 +1,4 @@
 ### Hi there 👋
-🌱 I’m currently learning Web Development (HTML, CSS, JS) <br>
 🔭 I’m currently working on Codecademy Full stack Development course.
 <!--
 **SubhashiniAsh/SubhashiniAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
